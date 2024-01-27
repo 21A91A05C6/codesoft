@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+			body{
+			background-image: url('dogs.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+	</style>
+</head>
+<header style="text-align: center; font-style: oblique; color: crimson;"><h1><b>Dog Breeds</b></h1></header>
+<nav style="text-align: center;">
+	|<a href="home.html">Home</a>|
+	<a href="contact.html">Contact info</a>|
+	<a href="about.html">About US</a>|
+</nav><hr>
+<body>
+	<center><h2 style="color: deeppink;">Dangerous Dogs</h2></center>
+	<p style="color: steelblue;">A dangerous dog is one that has already attacked, or puts a person in genuine fear for their safety, or the safety of others.
+
+Vicious dogs
+
+It can be hard to define a vicious dog, as it may simply be scared or hungry, or feels under threat.
+Research reports indicate specific dog breeds typically associated with increased dangers in the past six years. These include Pit Bulls, Rottweilers, German Shepherds, Doberman Pinschers, Alaskan Malamutes, Chow Chows, Perro De Presa Canario (Canary Mastiff), Akitas, Great Danes and Huskies.</p>
+	<hr>
+	<center><h2 style="color: deeppink;">Friendly Dogs</h2></center>
+	<p style="color: steelblue;">Dogs are generally friendly animals. When dogs were domesticated thousands of years ago, it was in their best interest as they evolved to woo humans for food and shelter. And while every dog has a unique personality, certain breeds tend to be a little more sociable than others, including, the pug, the Labrador retriever, the Boston terrier, and the poodle.
+
+Here are the 15 friendliest dog breeds that are eager to socialize with and please people.</p><hr>
+	<details>
+		<b><summary>
+			Developed by 3<sup>rd</sup> CSE-B
+		</summary>
+		<p>AEC</p></b>
+	</details>
+	<footer style="text-align: center;">
+		<b><i><p>All About Dogs</p>
+		<p>Developed by 3<sup>rd</sup>CSE-B</p>
+		<p>Youtube|Facebook|Instagram|twitter</p></i></b>
+	</footer>
+</body>
+</html>
